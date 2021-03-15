@@ -1,8 +1,8 @@
 include ':app'
-rootProject.name = "My Application"
-addSubfolderProjects("DummySubmodules/sources/common", "common")
-addSubfolderProjects("DummySubmodules/sources/domain", "domain")
+addSubfolderProjects("DummySubmodules/sources/common", "common/source")
+addSubfolderProjects("DummySubmodules/sources/domain", "domain/source")
 addSubfolderProjects("DummySubmodules/sources/data", "data")
+
 
 def addSubfolderProjects(String relativePath, String prefix = "") {
     def folder = file("$rootProject.projectDir/$relativePath")

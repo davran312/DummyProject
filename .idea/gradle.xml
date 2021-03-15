@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -10,11 +11,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/core" />
-            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/strings" />
-            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/uikit" />
-            <option value="$PROJECT_DIR$/DummySubmodules/sources/data/payment" />
-            <option value="$PROJECT_DIR$/DummySubmodules/sources/domain/payment" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

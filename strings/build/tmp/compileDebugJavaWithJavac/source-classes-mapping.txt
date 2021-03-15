@@ -1,2 +1,0 @@
-namba/wallet/nambaone/strings/BuildConfig.java
- namba.wallet.nambaone.strings.BuildConfig
