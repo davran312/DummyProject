@@ -1,0 +1,3 @@
+[submodule "DummySubmodules"]
+	path = DummySubmodules
+	url = https://github.com/davran312/DummySubmodules.git
