@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="23"
-6-->/Users/admin/Documents/nambaone-android/sources/common/strings/src/main/AndroidManifest.xml
+6-->/Users/admin/Documents/MyApplication/strings/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="29" />
-7-->/Users/admin/Documents/nambaone-android/sources/common/strings/src/main/AndroidManifest.xml
+7-->/Users/admin/Documents/MyApplication/strings/src/main/AndroidManifest.xml
 8
 9</manifest>

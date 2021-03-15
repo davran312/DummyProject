@@ -10,10 +10,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/core" />
+            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/strings" />
+            <option value="$PROJECT_DIR$/DummySubmodules/sources/common/uikit" />
+            <option value="$PROJECT_DIR$/DummySubmodules/sources/data/payment" />
+            <option value="$PROJECT_DIR$/DummySubmodules/sources/domain/payment" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/strings" />
-            <option value="$PROJECT_DIR$/uikit" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

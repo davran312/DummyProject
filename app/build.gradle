@@ -38,9 +38,6 @@ android {
 
 dependencies {
 
-    implementation project(':strings')
-    implementation project(':core')
-    implementation project(':uikit')
     implementation kotlinDependencies.stdlib
     implementation coroutinesDependencies.core
     implementation coroutinesDependencies.android
